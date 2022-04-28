@@ -5,7 +5,7 @@ function ExampleComponent() {
   return (
     <div className="example">
       <img
-        src="https://s3.amazonaws.com/ironboard-learn/sunglasses.gif"
+        src="https://c.tenor.com/fCvgrro-iaMAAAAd/luffy-gif-ep982-luffy.gif"
         alt="a deeply impressed man, perhaps thinking 'whoa'"
       />
       <p>Whoa!</p>
